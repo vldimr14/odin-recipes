@@ -1,0 +1,33 @@
+.container {
+    font-family: Tahoma, Verdana, Arial, sans-serif;
+}
+
+h1 {
+    background: #000;
+    color: #fff;
+    text-align: center;
+}
+
+h2 {
+    color: #4a4a4a;
+}
+
+.recipes-list {
+    font-size: 24px;
+    list-style: none;
+    font-weight: 100;
+}
+
+img {
+    width: 400px;
+    height: auto;
+}
+
+a {
+    font-size: 20px;
+    text-decoration: none;
+}
+
+li {
+    text-align: start;
+}
